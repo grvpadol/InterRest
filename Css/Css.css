@@ -1,0 +1,26 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('..Image/head.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+.row
+{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+.logo
+{
+    height: 120px;
+    width: auto;
+    float: left;
+    margin-top: 20px;
+}
