@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "Rest",
+            "dialect": "MySQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "MyDbConnection",
+            "password": "Rest",
+            "port": 3306,
+            "server": "localhost",
+            "username": "padol"
+        }
+    ]
+}
